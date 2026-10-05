@@ -21,8 +21,8 @@ Understand the challenges of imbalanced data and apply techniques to address cla
 
 | Topic | About |
 | ------ | ------ |
-| [Slides](./01-slides/README.md) | - Describe when imbalanced data is a problem  |
-| [02 Imbalanced Classes](./02-imbalanced-classes/README.md) | - Identify methods for handling imbalanced data and appropriately evaluating performance<br />- Apply the `imbalanced-learn` library to oversample minority classes<br />- Apply the `imbalanced-learn` library to create synthetic minority class observations|
+| [Slides](https://github.com/ga-curriculum/ml-imbalanced-data/blob/main/README.md){:target="_blank"} | - Describe when imbalanced data is a problem  |
+| [02 Imbalanced Classes](https://github.com/ga-curriculum/ml-imbalanced-data/blob/main/README.md){:target="_blank"} | - Identify methods for handling imbalanced data and appropriately evaluating performance<br />- Apply the `imbalanced-learn` library to oversample minority classes<br />- Apply the `imbalanced-learn` library to create synthetic minority class observations|
 
 
 ## Prerequisites
